@@ -13,6 +13,9 @@
 ###系统电话
 - tel://[电话号码]
 
+###QQ
+- QQ联系人 mqqapi://card/show_pslcard?src_type=internal&version=1&uin={QQ号码}
+
 ###网易新闻
 - newsapp://
 
@@ -31,5 +34,14 @@
 ###Keep 
 - keep://
 
+###Workflow
+- workflow://
+- 打开预定义动作 workflow://run-workflow?name={动作名}
+
 ###扇贝英语
 - shanbay://
+
+###潮汐
+- tide://
+
+
