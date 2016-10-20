@@ -1,6 +1,19 @@
 
 ###支付宝
-- alipay://
+- alipays://
+- 蚂蚁森林 alipays://platformapi/startapp?appId=60000002
+- 还信用卡 alipays://platformapi/startapp?appId=09999999
+- 转账 alipays://platformapi/startapp?appId=20000221
+- 收款 alipays://platformapi/startapp?appId=20000123
+- 滴滴出行 alipays://platformapi/startapp?appId=20000778
+- AA收款 alipays://platformapi/startapp?appId=20000263
+- 红包 alipays://platformapi/startapp?appId=88886666
+- 我的快递 alipays://platformapi/startapp?appId=20000754
+- 淘票票 alipays://platformapi/startapp?appId=20000131
+- 彩票 alipays://platformapi/startapp?appId=10000011
+- 手机充值 alipays://platformapi/startapp?appId=10000003
+- 生活缴费 alipays://platformapi/startapp?appId=20000193
+- 股票 alipays://platformapi/startapp?appId=20000134
 
 ###QQ音乐
 - qqmusic://
