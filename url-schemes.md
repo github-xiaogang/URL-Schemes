@@ -1,4 +1,16 @@
 
+###饿了么
+
+- eleme://
+
+###美团
+
+- imeituan://
+
+###美团外卖
+
+- meituanwaimai://
+
 ###支付宝
 - alipays://
 - 蚂蚁森林 alipays://platformapi/startapp?appId=60000002
