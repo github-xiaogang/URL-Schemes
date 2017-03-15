@@ -1,4 +1,11 @@
 
+
+###我的标记iMark
+
+- clover-imark://
+- 快速新建 clover-imark://new/{|web|map|library|session|camera|latest} 
+- 新建画布 clover-imark://new/canvas?width=1000&height=1000
+
 ###饿了么
 
 - eleme://
