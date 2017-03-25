@@ -1,4 +1,80 @@
 
+###菜鸟裹裹
+
+- cainiao://
+
+###钉钉
+
+- dingtalk://
+
+###微信
+
+- wechat://
+
+###拿铁阅读
+
+- LatteRead://
+
+###有道词典
+
+- yddict://
+
+###网易公开课
+
+- neteaseVopen://
+
+###一席
+
+- wx5bc45646a79e74ab://
+
+###TED
+
+- ted://
+
+
+###铁路12306
+
+- cn.12306://
+
+###智行火车票
+
+- suanya://
+
+###携程旅行
+
+- ctrip://
+
+###Cuto Wallpaper(少数派壁纸)
+
+- cuto://
+
+###爱奇艺
+
+- iqiyi://
+
+###搜狐视频
+
+- sohuvideo://
+
+###优酷视频
+
+- youku://
+
+###腾讯视频
+
+- tenvideo://
+
+###QQ邮箱
+
+- qqmail://
+
+###网易邮箱
+
+- neteasemail://
+
+###Gmail
+
+- googlegmail://
 
 ###我的标记iMark
 
@@ -47,6 +123,7 @@
 
 ###QQ
 - QQ联系人 mqqapi://card/show_pslcard?src_type=internal&version=1&uin={QQ号码}
+- QQ群 mqqapi://card/show_pslcard?src_type=internal&version=1&card_type=group&uin={QQ群号}
 
 ###网易新闻
 - newsapp://
