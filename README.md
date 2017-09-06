@@ -1,7 +1,5 @@
 # URL-Schemes
-收集国内常用App url scheme
-
-[查看所有URL Scheme][urlschemes]
+收集国内常用App url scheme [点击查看][urlschemes]
 
 查找更多url scheme:  http://t.cn/Ra0rlSN
 
