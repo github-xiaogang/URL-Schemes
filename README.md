@@ -3,8 +3,9 @@
 
 [查看所有URL Scheme][urlschemes]
 
+查找更多url scheme:  http://t.cn/Ra0rlSN
 
-####欢迎贡献
+我要分享url scheme:  http://t.cn/Ra0rEti
 
 
 
